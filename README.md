@@ -8,7 +8,7 @@ I am a seasoned data scientist and 🧬💻 computational biologist 💻🧬, br
 - 🔭 I’m currently working on a RAG Chatbot for augmenting the interpretation of computational biology analyses in the context of the scientific literature
 - 💬 Ask me about all things R, bioinformatics and shiny app development
 
-&nbps;
+<br/><br/>
   
 
 [![Hobbeist's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobbeist)](https://github.com/anuraghazra/github-readme-stats)
