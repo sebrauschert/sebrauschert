@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi 👋
+
+I am Seb, Principal Data Scientist @ [INSiGENe](https://insigene.com).
+
+I am a seasoned data scientist and 🧬💻 computational biologist 💻🧬, bringing over a decade of expertise in software development, data analysis, and technical leadership. Specializing in bioinformatics and data science, I am used to analyzing large omics datasets, prioritizing reproducibility and extracting meaningful insights through the utilization of appropriate tools ⚙️📐🔨 and methodologies such as e.g. statistics, predictive models and machine learning 🤖. Driven by a commitment to contributing to meaningful discoveries, I strives to remain at the forefront of innovation in all things technology and data!
+
+- ✍🏻 I am blogging at https://www.linkedin.com/company/89821603
+- 🔭 I’m currently working on a RAG Chatbot for augmenting the interpretation of computational biology analyses in the context of the scientific literature
+- 💬 Ask me about all things R, bioinformatics and shiny app development
+
+  
+
+[![Hobbeist's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobbeist)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hobbeist/Hobbeist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
