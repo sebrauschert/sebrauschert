@@ -11,7 +11,7 @@ I am a seasoned data scientist and 🧬💻 computational biologist 💻🧬, br
 <br/><br/>
   
 
-[![Hobbeist's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobbeist)](https://github.com/anuraghazra/github-readme-stats)
+[![Hobbeist's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebrauschert)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hobbeist/Hobbeist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
